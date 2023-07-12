@@ -20,7 +20,7 @@ li {
 
 p {
 
-    color: black;
+    color: rgb(247, 8, 195);
 
     text-shadow: .5px .5px white;
 
@@ -201,7 +201,7 @@ button:hover {
 
     margin-bottom: .5rem;
 
-    background-color: #5e6df1;
+    background-color: #0a1152;
 
     color: #eeeeee;
 
